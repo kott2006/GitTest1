@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // comment added in github
+            // comment was edited in github
             Console.WriteLine("Hello World!");
         }
     }
